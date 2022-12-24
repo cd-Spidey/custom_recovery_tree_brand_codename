@@ -1,0 +1,4 @@
+Replace this with your stock recovery.fstab from your stock boot/recovery.img.
+
+For Device shipped with Dynamic Partitons. You only need to put...
+Your Logical Partitions, Userdata, Metadata and Misc. Everthing else should be in twrp.flags.

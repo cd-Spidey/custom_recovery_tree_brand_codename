@@ -1,0 +1,3 @@
+# Needed for Decryption
+
+If your device using Mediatek SoC, look in your device firmware dump, if you see mcDriverDaemon. Replace it with that, if it doesn't exist... delete this.

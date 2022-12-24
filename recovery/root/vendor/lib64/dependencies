@@ -1,0 +1,1 @@
+# Put all libs or .so files that are necessary for building twrp, and/or decryptions. You can use ldcheck in qcom_twrp-common repo in TeamWin.

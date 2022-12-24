@@ -1,0 +1,6 @@
+Replace with whatever your device or extracted boot/recovery.img has.
+
+If QCom     = init.recovery.qcom.rc
+
+If MTK      = init.recovery.mtxxxx.rc
+            = usually, you have to put more service here compare to qcom's. Look for other MTK Devices for references.

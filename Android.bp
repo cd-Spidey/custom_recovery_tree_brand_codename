@@ -1,0 +1,4 @@
+# If MTK SoC and/or QCom A-Only, no need to add more libs here, just stay as is. If AB-QCom, need to add bootctrl.
+
+soong_namespace {
+}
